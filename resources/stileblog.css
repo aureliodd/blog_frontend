@@ -1,0 +1,24 @@
+.disable-pointer-events{
+    pointer-events: none;
+}
+
+.visible{
+    display: block !important;
+}
+
+.hide{
+    display: none !important;
+}
+
+.pointer{
+    cursor: pointer;
+}
+
+.private-post{
+    /*background: rgba(255, 255, 255, 0.3);*/
+    opacity: 0.4;
+}
+
+.tags{
+    color:grey;
+}
